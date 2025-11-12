@@ -1,42 +1,12 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fun Kids</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>مرحبا في Fun Kids!</h1>
-    </header>
-
-    <main>
-        <section id="videos">
-            <h2>فيديوهات للأطفال</h2>
-            <div class="video-list">
-                <video controls>
-                    <source src="videos/video1.mp4" type="video/mp4">
-                    المتصفح الخاص بك لا يدعم عرض الفيديو.
-                </video>
-                <video controls>
-                    <source src="videos/video2.mp4" type="video/mp4">
-                    المتصفح الخاص بك لا يدعم عرض الفيديو.
-                </video>
-                <!-- ممكن تضيف فيديوهات أكتر بنفس الطريقة -->
-            </div>
-        </section>
-
-        <section id="fun-buttons">
-            <h2>أزرار Fun</h2>
-            <button onclick="playRandomVideo()">شغل فيديو عشوائي</button>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 Fun Kids</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=J7q8f6g0UMw</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=Vh3b3cTlBsk</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=-oKjZlrsJlQ</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=h0rf3EsEkBA</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=EOBGK2N6E5Y</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=gVduflLhcz0</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=nN3L82sfQc0</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=dlp2eLSDyaM</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=V3VYryk9aKQ</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/watch?v=duU87ZbG4rU</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/playlist?list=PLp3i4meXmx9w7DpOXqGf_0m_ih67fl5ck</iframe>
+<iframe width="560" height="315" src="رابط_الفيديو_هنا" frameborder="0" allowfullscreen>https://www.youtube.com/playlist?list=PLw_nS0jRO9hN-AxQJUZofjTa1c21VESln</iframe>
